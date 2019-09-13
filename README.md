@@ -1,0 +1,1 @@
+Projeto em Java realizado com propósito de treinar diferentes padrões de projeto "GoF"
